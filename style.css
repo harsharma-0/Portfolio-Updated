@@ -629,8 +629,9 @@ span {
 }
 
 .footer {
+    height: 50px;
     display: flex;
-    min-height: auto;
+    min-height: 200px;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
