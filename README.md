@@ -1,6 +1,5 @@
 Here's a `README.md` file you can use for your GitHub portfolio project:
 
-```markdown
 # Harsh Vishwakarma's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, education, and experience as a web developer and coder. The website is designed to highlight my work and provide a way for potential employers or collaborators to contact me.
